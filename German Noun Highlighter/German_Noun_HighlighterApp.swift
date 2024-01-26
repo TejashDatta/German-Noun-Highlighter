@@ -11,7 +11,7 @@ import SwiftUI
 struct German_Noun_HighlighterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TextEntryView()
         }
     }
 }
